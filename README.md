@@ -3,10 +3,9 @@ I'm Jesse, a bored programmer with a surplus of time. My interests are peer-to-p
 
 Live FOSS or die :metal: 
 
-Active project: [retreon](https://github.com/PsychoLlama/retreon)
-
-:clipboard: Project queue
-- [secret project]
+:clipboard: Projects
+- [retreon](https://github.com/retreon/retreon) (active :seedling:)
+- [secret project - TBD]
 - Continuing research for [mytosis](https://github.com/PsychoLlama/mytosis/wiki).
 
 :mailbox: How to reach me
