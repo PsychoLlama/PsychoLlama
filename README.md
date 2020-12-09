@@ -4,7 +4,8 @@ I'm Jesse, a bored programmer with a surplus of time. My interests are peer-to-p
 Live FOSS or die :metal:
 
 :clipboard: Projects
-- [secret project - TBD] (active :seedling:)
+- Learning random stuff (active :seedling:)
+- [secret project - TBD]
 - Continuing research for [mytosis](https://github.com/PsychoLlama/mytosis/wiki).
 
 :mailbox: How to reach me
