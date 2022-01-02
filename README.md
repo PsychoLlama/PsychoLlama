@@ -1,29 +1,31 @@
 ### Hey
-I'm Jesse, a bored programmer with a surplus of time. My interests are peer-to-peer systems and anything relating to Vim. Sometimes I work on JS tooling, but that's just stockholm syndrome.
+
+I'm a web developer that's really into peer-to-peer systems, NixOS, and anything related to Vim. My joy in life is finding force multipliers, the lesser-known tools and paradigms that make you more powerful. You can [find my recommendations here](https://github.com/PsychoLlama/recommendations).
+
+Social: [@PsychoLlama@fosstodon.org](https://fosstodon.org/@PsychoLlama)
 
 Live FOSS or die :metal:
 
-:mailbox: How to reach me
-- Mastodon: [@PsychoLlama@fosstodon.org](https://fosstodon.org/@PsychoLlama)
-- Matrix: [@psychollama271:matrix.org](https://matrix.to/#/@psychollama271:matrix.org)
-
 <!--
-              !#########       #                 
-            !########!          ##!              
-         !########!               ###            
-      !##########                  ####          
-    ######### #####                ######        
-     !###!      !####!              ######       
-       !           #####            ######!      
-                     !####!         #######      
-                        #####       #######      
-                          !####!   #######!      
-                             ####!########       
-          ##                   ##########        
-        ,######!          !#############         
-      ,#### ########################!####!       
-    ,####'     ##################!'    #####     
-  ,####'            #######              !####!  
- ####'                                      #####
- ~##                                          ##~
+
+ _____
+< sup >
+ -----
+      \                    / \  //\
+       \    |\___/|      /   \//  \\
+            /0  0  \__  /    //  | \ \
+           /     /  \/_/    //   |  \  \
+           @_^_@'/   \/_   //    |   \   \
+           //_^_/     \/_ //     |    \    \
+        ( //) |        \///      |     \     \
+      ( / /) _|_ /   )  //       |      \     _\
+    ( // /) '/,_ _ _/  ( ; -.    |    _ _\.-~        .-~~~^-.
+  (( / / )) ,-{        _      `-.|.-~-.           .~         `.
+ (( // / ))  '/\      /                 ~-. _ .-~      .-~^-.  \
+ (( /// ))      `.   {            }                   /      \  \
+  (( / ))     .----~-.\        \-'                 .~         \  `. \^-.
+             ///.----..>        \             _ -~             `.  ^-`  ^-_
+               ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
+                                                                  /.-~
+
 -->
