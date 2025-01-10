@@ -1,6 +1,6 @@
 ### Hey
 
-I'm a web developer that's really into peer-to-peer systems, [NixOS](https://nixos.org/), [Nushell](https://www.nushell.sh/), and anything related to Vim. My joy in life is finding force multipliers, the lesser-known tools and paradigms that make you more powerful. You can [find my recommendations here](https://github.com/PsychoLlama/recommendations).
+I'm a web developer that's really into peer-to-peer systems, NixOS, Nushell, and anything related to Vim. My joy in life is finding force multipliers, the lesser-known tools and paradigms that make you more powerful. You can [find my recommendations here](https://github.com/PsychoLlama/recommendations).
 
 Live FOSS or die :metal:
 
